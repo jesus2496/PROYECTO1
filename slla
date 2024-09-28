@@ -1,0 +1,45 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#5049
+    [34mall[39m: [
+      [34;4mApp\Models\User[39;24m {#5047
+        [34midUsuario[39m: [35m1[39m,
+        [34mnombre[39m: "[32mjesus[39m",
+        [34mdepartamento[39m: "[32msistemas[39m",
+        [34mtelefono[39m: "[32m7341150852[39m",
+        [34mcorreo[39m: "[32mjesus.com[39m",
+        [34mpassword[39m: "[32m123456[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#5046
+        [34midUsuario[39m: [35m2[39m,
+        [34mnombre[39m: "[32mleonel[39m",
+        [34mdepartamento[39m: "[32madministracion[39m",
+        [34mtelefono[39m: "[32m3212212332[39m",
+        [34mcorreo[39m: "[32mleonel@gmail.com[39m",
+        [34mpassword[39m: "[32m123456[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#5045
+        [34midUsuario[39m: [35m3[39m,
+        [34mnombre[39m: "[32mdaniel[39m",
+        [34mdepartamento[39m: "[32mcontaduria[39m",
+        [34mtelefono[39m: "[32m12862812[39m",
+        [34mcorreo[39m: "[32mDaniel@gmail.com[39m",
+        [34mpassword[39m: "[32m123456[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#5044
+        [34midUsuario[39m: [35m4[39m,
+        [34mnombre[39m: "[32mjony[39m",
+        [34mdepartamento[39m: "[32msistemas[39m",
+        [34mtelefono[39m: "[32mXXX-XXX-XX-XX[39m",
+        [34mcorreo[39m: "[32mjony@gmail.com[39m",
+        [34mpassword[39m: "[32m123456[39m",
+      },
+      [34;4mApp\Models\User[39;24m {#5043
+        [34midUsuario[39m: [35m5[39m,
+        [34mnombre[39m: "[32mvictor[39m",
+        [34mdepartamento[39m: "[32msistemas[39m",
+        [34mtelefono[39m: "[32m3423612538[39m",
+        [34mcorreo[39m: "[32mvictor_hugo@gmail.com[39m",
+        [34mpassword[39m: "[32m123456[39m",
+      },
+    ],
+  }
+
